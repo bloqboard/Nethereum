@@ -168,6 +168,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nethereum.WebSocketsStreami
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nethereum.RPC.Reactive", "src\Nethereum.RPC.Reactive\Nethereum.RPC.Reactive.csproj", "{54557540-3557-438E-A3C0-A20D40173042}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp", "TestConsoleApp\TestConsoleApp.csproj", "{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1108,6 +1110,22 @@ Global
 		{54557540-3557-438E-A3C0-A20D40173042}.Release|x64.Build.0 = Release|Any CPU
 		{54557540-3557-438E-A3C0-A20D40173042}.Release|x86.ActiveCfg = Release|Any CPU
 		{54557540-3557-438E-A3C0-A20D40173042}.Release|x86.Build.0 = Release|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Debug|ARM.Build.0 = Debug|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Debug|x64.Build.0 = Debug|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Debug|x86.Build.0 = Debug|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Release|ARM.ActiveCfg = Release|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Release|ARM.Build.0 = Release|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Release|x64.ActiveCfg = Release|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Release|x64.Build.0 = Release|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Release|x86.ActiveCfg = Release|Any CPU
+		{1178D0EF-2B41-4E8A-A4C0-9D27A3D4E783}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
